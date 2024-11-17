@@ -50,6 +50,26 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Calvin_Coolidge</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n50043492</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<dc:contributor id="illustrator-1">Harris &amp; Ewing</dc:contributor>
+		<meta property="file-as" refines="#illustrator-1">Harris &amp; Ewing</meta>
+		<meta property="display-seq" refines="#illustrator-1">0</meta>
+		<meta property="role" refines="#illustrator-1" scheme="marc:relators">ill</meta>
+		<dc:contributor id="illustrator-2">Allison Spence</dc:contributor>
+		<meta property="file-as" refines="#illustrator-2">Spence, Allison</meta>
+		<meta property="display-seq" refines="#illustrator-2">0</meta>
+		<meta property="role" refines="#illustrator-2" scheme="marc:relators">ill</meta>
+		<dc:contributor id="illustrator-3">Underwood &amp; Underwood</dc:contributor>
+		<meta property="file-as" refines="#illustrator-3">Underwood &amp; Underwood</meta>
+		<meta property="display-seq" refines="#illustrator-3">0</meta>
+		<meta property="role" refines="#illustrator-3" scheme="marc:relators">ill</meta>
+		<dc:contributor id="illustrator-4">Wide World Photos</dc:contributor>
+		<meta property="file-as" refines="#illustrator-4">Wide World Photos</meta>
+		<meta property="display-seq" refines="#illustrator-4">0</meta>
+		<meta property="role" refines="#illustrator-4" scheme="marc:relators">ill</meta>
+		<dc:contributor id="illustrator-5">Bachrach</dc:contributor>
+		<meta property="file-as" refines="#illustrator-5">Bachrach</meta>
+		<meta property="display-seq" refines="#illustrator-5">0</meta>
+		<meta property="role" refines="#illustrator-5" scheme="marc:relators">ill</meta>
 		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
 		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
@@ -69,6 +89,7 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<meta property="role" refines="#producer-1" scheme="marc:relators">wat</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
