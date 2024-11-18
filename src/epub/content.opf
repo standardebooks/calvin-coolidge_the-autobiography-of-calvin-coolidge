@@ -70,10 +70,11 @@
 		<meta property="file-as" refines="#illustrator-5">Bachrach</meta>
 		<meta property="display-seq" refines="#illustrator-5">0</meta>
 		<meta property="role" refines="#illustrator-5" scheme="marc:relators">ill</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Arthur I. Keller</dc:contributor>
+		<meta property="file-as" refines="#artist">Keller, Arthur I.</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Arthur Ignatius Keller</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Arthur_I._Keller</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/n88292416</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
@@ -84,12 +85,14 @@
 		<meta property="se:url.homepage" refines="#producer-1">https://alexcabal.com</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
-		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">trc</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">wat</meta>
+		<dc:contributor id="producer-2">Anthony J. Bentley</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Bentley, Anthony J.</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">cov</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
