@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/calvin-coolidge/the-autobiography-of-calvin-coolidge</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2025-01-01T09:01:00Z</dc:date>
+		<meta property="dcterms:modified">2025-01-01T09:01:00Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -36,12 +36,16 @@
 		<meta property="se:subject">Autobiography</meta>
 		<dc:description id="description">The thirtieth president of the United States recounts his life story.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/calvin-coolidge"&gt;Calvin Coolidge&lt;/a&gt; served as the thirtieth president of the United States, from 1923–1929. Famously taciturn, his nickname was “Silent Cal”—and his autobiography does nothing to disabuse him of that legend. Where &lt;a href="https://standardebooks.org/ebooks/theodore-roosevelt"&gt;Theodore Roosevelt’s&lt;/a&gt; &lt;a href="https://standardebooks.org/ebooks/theodore-roosevelt/an-autobiography"&gt;autobiography&lt;/a&gt; is a weighty 214,000 words, and &lt;a href="https://standardebooks.org/ebooks/ulysses-s-grant"&gt;Ulysses S. Grant’s&lt;/a&gt; &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/ulysses-s-grant/personal-memoirs-of-ulysses-s-grant"&gt;Personal Memoirs&lt;/a&gt;&lt;/i&gt; clock in at a hefty 273,000 words, this volume is a terse 44,000 words.&lt;/p&gt;
+			&lt;p&gt;Coolidge wastes no time in describing his idyllic childhood in Vermont where his father, a respected pillar of the community, raised him in an environment that valued hard work, modesty, and education. He then recounts his career in the law, followed by his speedy ascent into politics and the vice presidency under Warren G. Harding.&lt;/p&gt;
+			&lt;p&gt;When Harding dies suddenly in 1923 on a trip to San Francisco, Coolidge, who was visiting his family home, finds himself being sworn to the office of the President by his father, under the lamplight of a modest country house. His first abbreviated term ends with him a popular president, and, after winning the election in 1924, he ultimately declines to run for a second full term, stating that “If I take another term, I will be in the White House till 1933 … Ten years in Washington is longer than any other man has had it—too long!”&lt;/p&gt;
+			&lt;p&gt;Those starting this autobiography may expect it to focus on the time Coolidge spent as the most powerful man in the world, but Coolidge devotes few words to discussing the actual events that occurred during his presidency, preferring to talk about his upbringing and his broad views on government and character. He does, however, recount what a day in the life of the president looks like—and as one might expect, the average day is extremely busy and carefully scheduled.&lt;/p&gt;
+			&lt;p&gt;Despite its brevity, Coolidge’s autobiography reveals a portrait of a thoughtful, considerate man who cared much for his countrymen and held modesty and hard work as two of the most important traits a leader can have.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://archive.org/details/in.ernet.dli.2015.87969</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">44711</meta>
+		<meta property="se:reading-ease.flesch">59.33</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Autobiography_of_Calvin_Coolidge</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/calvin-coolidge_the-autobiography-of-calvin-coolidge</meta>
 		<dc:creator id="author">Calvin Coolidge</dc:creator>
