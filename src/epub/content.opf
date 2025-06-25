@@ -52,7 +52,7 @@
 		<meta property="file-as" refines="#author">Coolidge, Calvin</meta>
 		<meta property="se:name.person.full-name" refines="#author">John Calvin Coolidge Jr.</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Calvin_Coolidge</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n50043492</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50043492</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="illustrator-1">Harris &amp; Ewing</dc:contributor>
 		<meta property="file-as" refines="#illustrator-1">Harris &amp; Ewing</meta>
@@ -78,7 +78,7 @@
 		<meta property="file-as" refines="#artist">Keller, Arthur I.</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Arthur Ignatius Keller</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Arthur_I._Keller</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/n88292416</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n88292416</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
