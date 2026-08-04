@@ -35,7 +35,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">sh85106470</meta>
 		<meta property="schema:genre">Autobiography</meta>
-		<dc:abstract>The thirtieth president of the United States recounts his life story.</dc:abstract>
+		<meta property="schema:abstract">The thirtieth president of the United States recounts his life story.</meta>
 		<dc:description>
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/calvin-coolidge"&gt;Calvin Coolidge&lt;/a&gt; served as the thirtieth president of the United States, from 1923–1929. Famously taciturn, his nickname was “Silent Cal”—and his autobiography does nothing to disabuse him of that legend. Where &lt;a href="https://standardebooks.org/ebooks/theodore-roosevelt"&gt;Theodore Roosevelt’s&lt;/a&gt; &lt;a href="https://standardebooks.org/ebooks/theodore-roosevelt/an-autobiography"&gt;autobiography&lt;/a&gt; is a weighty 214,000 words, and &lt;a href="https://standardebooks.org/ebooks/ulysses-s-grant"&gt;Ulysses S. Grant’s&lt;/a&gt; &lt;i&gt;&lt;a href="https://standardebooks.org/ebooks/ulysses-s-grant/personal-memoirs-of-ulysses-s-grant"&gt;Personal Memoirs&lt;/a&gt;&lt;/i&gt; clock in at a hefty 273,000 words, this volume is a terse 44,000 words.&lt;/p&gt;
 			&lt;p&gt;Coolidge wastes no time in describing his childhood in Vermont where his father, a respected pillar of the community, raised him in an environment that valued hard work, modesty, and education. Though idyllic in setting, this upbringing is tinged with loss in the early deaths of his grandfather, mother, and sister. He then recounts his career in the law, followed by his speedy ascent into politics and the vice presidency under Warren G. Harding.&lt;/p&gt;
